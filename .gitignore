@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Dataset files
+train_data/
+test_data/
+
+# Model files
+emotion_model/
+
+# Logs and outputs
+logs/
+results/
+*.log
+*.out
+
+# Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
